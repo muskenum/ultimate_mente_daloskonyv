@@ -1,3 +1,7 @@
+## Working and temporary directories
+tmp-ly/
+anyagok/
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
