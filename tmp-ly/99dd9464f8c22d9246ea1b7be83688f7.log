@@ -1,0 +1,18 @@
+Changing working directory to: `tmp-ly'
+Processing `/media/peti/SEAGATE_4TB/projektek/mente_daloskonyv/tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly'
+Parsing...
+warning: Unknown paper size: a4paper
+warning: set-global-staff-size: not in toplevel scope
+/media/peti/SEAGATE_4TB/projektek/mente_daloskonyv/tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly:65:30: error: not a note name: giusto
+		\tempo Tempo 
+                             giusto 4=132 d''4. c8 b g4. |
+/media/peti/SEAGATE_4TB/projektek/mente_daloskonyv/tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly:65:38: error: syntax error, unexpected '='
+		\tempo Tempo giusto 4
+                                     =132 d''4. c8 b g4. |
+/media/peti/SEAGATE_4TB/projektek/mente_daloskonyv/tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly:65:39: error: not a duration
+		\tempo Tempo giusto 4=
+                                      132 d''4. c8 b g4. |
+/media/peti/SEAGATE_4TB/projektek/mente_daloskonyv/tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly:53:9: error: errors found, ignoring music expression
+	
+        <<
+fatal error: failed files: "tmp-ly/99dd9464f8c22d9246ea1b7be83688f7.ly"

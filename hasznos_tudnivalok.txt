@@ -1,0 +1,18 @@
+NWC lejátszás Linuxon:
+sudo apt install timidity
+timidity -iAD -B2,8 -Os1l -s 44100 -x'soundfont /usr/share/midi/sf2/mypatches.sf2 order=1'
+majd elindítani az NWC-t
+
+Windowson szar a font NWC-ben: telepíteni kell a fontot hozzá.
+
+- Tartalomjegyzék és a fejezetek magyarul legyenek: \usepackage[magyar]{babel} (Kell hozzá a texlive-lang-european csomag Linuxon.)
+
+.lytex:
+- Sortörést a .lytex fájlban "\break"-kel lehet csinálni.
+- Át kell nézni mindig a .lytex fájlt, hogy helyesek-e a spéci karakterek és a sortörések
+- A papírméret számít a tagolás miatt, pl. letternél behúzza az első sort, a4papernél nem.
+
+
+Kérdések
+- Címek hogy legyenek?
+- Tagolni hogy érdemes?

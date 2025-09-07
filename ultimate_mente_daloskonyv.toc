@@ -1,0 +1,34 @@
+\select@language {magyar} \contentsline {chapter}{\numberline {1}Gömör}{1}%
+\select@language {magyar} \contentsline {section}{\numberline {1.1}Van két lovam...}{1}%
+\select@language {magyar} \contentsline {section}{\numberline {1.2}Az aradi fegyház...}{1}%
+\select@language {magyar} \contentsline {section}{\numberline {1.3}Elveszett a lovam...}{2}%
+\select@language {magyar} \contentsline {section}{\numberline {1.4}Sok irigyem a faluba'...}{2}%
+\select@language {magyar} \contentsline {chapter}{\numberline {2}Kalocsa}{4}%
+\select@language {magyar} \contentsline {section}{\numberline {2.1}Ősszel érik babám a fekete szőlő...}{4}%
+\select@language {magyar} \contentsline {section}{\numberline {2.2}Kocsmárosné Ica lánya a galambom...}{4}%
+\select@language {magyar} \contentsline {chapter}{\numberline {3}Sárköz-Bogyiszló}{5}%
+\select@language {magyar} \contentsline {section}{\numberline {3.1}Házasodik a tücsök...}{5}%
+\select@language {magyar} \contentsline {section}{\numberline {3.2}Hol jártál az éjjel cinegemadár...}{6}%
+\select@language {magyar} \contentsline {chapter}{\numberline {4}Szatmár}{7}%
+\select@language {magyar} \contentsline {section}{\numberline {4.1}Szatmárököritó híres város...}{7}%
+\select@language {magyar} \contentsline {section}{\numberline {4.2}Szól a kakas szórul szóra...}{7}%
+\select@language {magyar} \contentsline {chapter}{\numberline {5}Szék}{8}%
+\select@language {magyar} \contentsline {section}{\numberline {5.1}A kapuba' a szekér...}{8}%
+\select@language {magyar} \contentsline {section}{\numberline {5.2}Kimentem én az erdőbe, az erdőbe...}{8}%
+\select@language {magyar} \contentsline {section}{\numberline {5.3}Aj Istenem, adj egyet...}{9}%
+\select@language {magyar} \contentsline {section}{\numberline {5.4}Bonchidai menyecskék...}{9}%
+\select@language {magyar} \contentsline {section}{\numberline {5.5}Tele van a temető árka vízel...}{10}%
+\select@language {magyar} \contentsline {section}{\numberline {5.6}Erdő, erdő, kerek erdő...}{10}%
+\select@language {magyar} \contentsline {section}{\numberline {5.7}Édesanyám, miért is szültél...}{12}%
+\select@language {magyar} \contentsline {section}{\numberline {5.8}Szennyes ingem, szennyes gatyám...}{13}%
+\select@language {magyar} \contentsline {section}{\numberline {5.9}Lefelé folyik a Tisza...}{13}%
+\select@language {magyar} \contentsline {chapter}{\numberline {6}Vág-Garam köze}{15}%
+\select@language {magyar} \contentsline {section}{\numberline {6.1}Hosszú farkú fecske, barna kismenyecske...}{15}%
+\select@language {magyar} \contentsline {section}{\numberline {6.2}Már minálunk a barátok facipőbe' járnak...}{15}%
+\select@language {magyar} \contentsline {section}{\numberline {6.3}Nem forog a nem forog a dorozsmai szélmalom...}{16}%
+\select@language {magyar} \contentsline {section}{\numberline {6.4}Felszállott a kakas a létrára...}{16}%
+\select@language {magyar} \contentsline {section}{\numberline {6.5}Áll a malom, áll a vitorlája...}{16}%
+\select@language {magyar} \contentsline {section}{\numberline {6.6}Temető kapuja, mind a kettő nyitva...}{17}%
+\select@language {magyar} \contentsline {section}{\numberline {6.7}Naszvad község szép helyen van...}{17}%
+\select@language {magyar} \contentsline {section}{\numberline {6.8}Kimentem a rétre, nem tudtam kaszálni...}{17}%
+\select@language {magyar} \contentsline {section}{\numberline {6.9}Sárga paszuly az ágy alatt...}{18}%

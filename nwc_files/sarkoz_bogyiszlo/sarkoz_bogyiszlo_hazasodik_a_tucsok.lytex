@@ -1,0 +1,92 @@
+% Generated from python nwc2ly converter v1.0 by Joshua Koo (zz85nus@gmail.com)
+\paper 
+{
+	#(set-paper-size "a4paper")
+	#(set-global-staff-size 16)
+	topmargin = 0.5\in
+	leftmargin = 0.5\in
+	rightmargin = 0.5\in
+	bottommargin = 0.5\in
+	raggedlastbottom = ##t
+}
+
+\version "2.22.2"
+\header {
+	title = ""
+	composer = ""
+	copyright = \markup \teeny "Copyright © 2025 Varga Péter"
+	footer = "All Rights Reserved"
+	%{  %}
+}
+
+\score {
+	<<
+		
+	\new Staff {
+	#(set-accidental-style 'default) \relative c {
+
+	% Staff 1		(Staff)
+
+	\set Staff.instrument = #"Staff"
+	\set Score.skipBars = ##t
+
+	\clef "treble"
+		\key f \major % or d \minor
+		
+		\tempo 4=72 \time 2/4 d''8[ c bes a] |
+		
+		% Bar 2
+		g[ a] f4 |
+		
+		% Bar 3
+		g8[ g] g[ g] |
+		
+		% Bar 4
+		a4 a \bar "|" \break
+		
+		% Bar 5
+		d8[ c] bes[ a] |
+		
+		% Bar 6
+		g[ a] f4 |
+		
+		% Bar 7
+		d8[ d] c[ c] |
+		
+		% Bar 8
+		d4 d \bar ".|:" 
+		
+		% Bar 9
+		c8[ e] c[ e] |
+		
+		% Bar 10
+		f[ f] f4 |
+		
+		% Bar 11
+		g8[ g] g[ g] |
+		
+		% Bar 12
+		a4 a \bar "|"
+		
+		% Bar 13
+		d8[ c] bes[ a] | \break
+		
+		% Bar 14
+		g[ a] f4 |
+		
+		% Bar 15
+		d8[ d] c[ c] |
+		
+		% Bar 16
+		d4 d \bar ":|."
+		
+		}
+	
+		\addlyrics{ Há -- za -- so -- dik a tü -- csök, szú -- nyog lá -- nyát ké -- ri,
+csi -- szëg -- cso -- szog a te -- tű, nász -- nagy a -- kar lën -- ni.
+O -- da -- ug -- rik a bol -- ha, vő -- fély a -- kar lën -- ni,
+min -- den -- fé -- le csúf bo -- gár ven -- dég a -- kar lën -- ni.}
+	}
+	
+	>>
+}

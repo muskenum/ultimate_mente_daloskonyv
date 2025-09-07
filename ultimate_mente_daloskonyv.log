@@ -1,0 +1,1110 @@
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2025.7.29)  7 SEP 2025 19:24
+ system commands enabled.
+**ultimate_mente_daloskonyv.tex
+(./ultimate_mente_daloskonyv.tex
+LaTeX2e <2020-02-02> patch level 2
+Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
+Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
+n
+Lua module: lualibs 2020-02-02 2.70 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2020-02-02 2.70 ConTeXt Lua libraries -- extended c
+ollection.
+Lua module: luaotfload-log 2020-02-02 3.12 luaotfload submodule / logging
+Lua module: luaotfload-parsers 2020-02-02 3.12 luaotfload submodule / filelist
+Lua module: luaotfload-configuration 2020-02-02 3.12 luaotfload submodule / conf
+ig file reader
+luaotfload | conf : Root cache directory is /home/peti/.texlive2019/texmf-var/lu
+atex-cache/generic-dev/names.
+luaotfload | init : Loading fontloader “fontloader-2020-01-26.lua” from kpse
+-resolved path “/usr/share/texlive/texmf-dist/tex/luatex/luaotfload/fontloader
+-2020-01-26.lua”.
+Lua-only attribute luaotfload@state = 2
+Lua-only attribute luaotfload@noligature = 3
+Lua-only attribute luaotfload@syllabe = 4
+luaotfload | init : Context OpenType loader version “3.11”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Lua module: luaotfload-loaders 2020-02-02 3.12 luaotfload submodule / callback h
+andling
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua module: luaotfload-database 2020-02-02 3.12 luaotfload submodule / database
+Lua module: luaotfload-unicode 2020-02-02 3.12 luaotfload submodule / Unicode he
+lpers
+Lua module: luaotfload-colors 2020-02-02 3.12 luaotfload submodule / color
+Lua-only attribute luaotfload_color_attribute = 5
+Lua module: luaotfload-resolvers 2020-02-02 3.12 luaotfload submodule / resolver
+s
+luaotfload | conf : Root cache directory is /home/peti/.texlive2019/texmf-var/lu
+atex-cache/generic-dev/names.
+Lua module: luaotfload-features 2020-02-02 3.12 luaotfload submodule / features
+Lua module: luaotfload-letterspace 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-embolden 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-notdef 2020-02-02 3.12 luaotfload submodule / color
+Lua module: luaotfload-auxiliary 2020-02-02 3.12 luaotfload submodule / auxiliar
+y functions
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_
+font'.
+Inserting `luaotfload.aux.set_font_index' at position 2 in `luaotfload.patch_fon
+t'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 3 in `luaotfload.patch
+_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_fon
+t_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 4 in `luaotfload.patch_font
+'.
+Inserting `luaotfload.aux.set_xheight' at position 5 in `luaotfload.patch_font'.
+Lua module: luaotfload-fallback 2020-02-02 3.12 luaotfload submodule / fallback
+Lua module: luaotfload-multiscript 2020-02-02 3.12 luaotfload submodule / multis
+cript
+Lua module: luaotfload-script 2020-02-02 3.12 luaotfload submodule / Script help
+ers
+Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
+e
+Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
+. L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk12.clo
+File: bk12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/peti/.texlive2019/texmf-
+var/luatex-cache/generic-dev/names/luaotfload-names.luc)
+\c@part=\count163
+\c@chapter=\count164
+\c@section=\count165
+\c@subsection=\count166
+\c@subsubsection=\count167
+\c@paragraph=\count168
+\c@subparagraph=\count169
+\c@figure=\count170
+\c@table=\count171
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: luatex.def on input line 105.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/luatex.def
+File: luatex.def 2018/01/08 v1.0l Graphics/color driver for luatex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box45
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen137
+\ttl@minus=\dimen138
+\ttl@toksa=\toks15
+\titlewidth=\dimen139
+\titlewidthlast=\dimen140
+\titlewidthfirst=\dimen141
+) (./lyluatex.sty
+Package: lyluatex 2023/04/18 v1.1.5
+(/usr/share/texlive/texmf-dist/tex/latex/minibox/minibox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count172
+\l__pdf_internal_box=\box46
+))
+Package: minibox 2013/06/21 v0.2a Another type of box.
+\l_minibox_rule_dim=\dimen142
+\l_minibox_pad_dim=\dimen143
+)
+(/usr/share/texlive/texmf-dist/tex/latex/environ/environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(/usr/share/texlive/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)
+\@envbody=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/currfile/currfile.sty
+Package: currfile 2015/04/23 v0.7c Provides the file path elements of the curren
+t input file
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2020/02/03 v0.7 Hooks for input files
+)
+\c@currfiledepth=\count173
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count174
+\calc@Bcount=\count175
+\calc@Adimen=\dimen144
+\calc@Bdimen=\dimen145
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count176
+\calc@Cskip=\skip53
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: luatex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen146
+\AM@pageheight=\dimen147
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/ppluatex.def
+File: ppluatex.def 2020/01/28 v0.5q Pdfpages driver for LuaTeX (AM)
+)
+\AM@pagebox=\box47
+\AM@global@opts=\toks17
+\AM@pagecnt=\count177
+\AM@toc@title=\toks18
+\c@AM@survey=\count178
+\AM@templatesizebox=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box49
+\sift@deathcycles=\count179
+\@vwid@loff=\dimen148
+\@vwid@roff=\dimen149
+)
+(./luaoptions.sty
+Package: luaoptions 2022/10/30 v0.8
+
+(/usr/share/texlive/texmf-dist/tex/luatex/luatexbase/luatexbase.sty
+Package: luatexbase 2015/10/04 v1.3 luatexbase interface to LuaTeX 
+
+(/usr/share/texlive/texmf-dist/tex/luatex/ctablestack/ctablestack.sty
+Package: ctablestack 2015/10/01 v1.0 Catcode table stable support
+\@catcodetablestackcnt=\count180
+)
+\CatcodeTableOther=\catcodetable5
+\CatcodeTableExpl=\catcodetable6
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks19
+\XKV@tempa@toks=\toks20
+)
+\XKV@depth=\count181
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+Lua module: luaoptions 2022/10/30 0.8 Module luaoptions.
+Lua module: luaoptions-lib 2022/10/30 0.8 Module luaoptions-lib.)
+(/usr/share/texlive/texmf-dist/tex/latex/metalogo/metalogo.sty
+Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\xl@everylogo=\toks21
+\xl@@everylogo=\toks22
+LaTeX Info: Redefining \TeX on input line 193.
+LaTeX Info: Redefining \LaTeX on input line 202.
+LaTeX Info: Redefining \LaTeXe on input line 219.
+)
+Lua module: lyluatex 2023/04/18 1.1.5 Module lyluatex.)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/14 3.40 The Babel package
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/14 3.40 Babel switching mechanism
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@readstream=\read2
+\l@dumylang=\language2
+Package babel Info: Non-standard hyphenation setup on input line 117.
+\l@nohyphenation=\language3
+\l@croatian=\language4
+\l@uppersorbian=\language5
+\l@hungarian=\language6
+\l@latvian=\language7
+\l@welsh=\language8
+\l@piedmontese=\language9
+\l@turkish=\language10
+\l@latin=\language11
+\l@irish=\language12
+\l@slovenian=\language13
+\l@occitan=\language14
+\l@icelandic=\language15
+\l@danish=\language16
+\l@romanian=\language17
+\l@swedish=\language18
+\l@liturgicallatin=\language19
+\l@estonian=\language20
+\l@lithuanian=\language21
+\l@kurmanji=\language22
+\l@dutch=\language23
+\l@friulan=\language24
+\l@bokmal=\language25
+\l@nynorsk=\language26
+\l@classiclatin=\language27
+\l@finnish=\language28
+\l@romansh=\language29
+)
+(/usr/share/texlive/texmf-dist/tex/generic/babel-hungarian/magyar.ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/14 3.40 Babel common definitions
+\babel@savecnt=\count182
+\U@D=\dimen150
+
+(/usr/share/texlive/texmf-dist/tex/generic/babel/luababel.def
+\bbl@attr@locale=\attribute6
+))
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count183
+\c@footnote@ch=\count184
+
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-hu.tex
+UTF-8 Hungarian hyphenation patterns
+(/usr/share/texlive/texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-hu.tex)))
+) (./ultimate_mente_daloskonyv.aux)
+\openout1 = ultimate_mente_daloskonyv.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count185
+\scratchdimen=\dimen151
+\scratchbox=\box50
+\nofMPsegments=\count186
+\nofMParguments=\count187
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count188
+\MPscratchDim=\dimen152
+\MPnumerator=\count189
+\makeMPintoPDFobject=\count190
+\everyMPtoPDFconversion=\toks24
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+\pdftexcmds@toks=\toks25
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
+5.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG
+,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+))
+\AtBeginShipoutBox=\box51
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+LaTeX Info: Redefining \cal on input line 583.
+LaTeX Info: Redefining \mit on input line 584.
+)
+<images/mente_logo.png, id=1, 301.125pt x 301.125pt>
+File: images/mente_logo.png Graphic file (type png)
+<use images/mente_logo.png>
+Package luatex.def Info: images/mente_logo.png  used on input line 18.
+(luatex.def)             Requested size: 117.00119pt x 117.00175pt.
+ [1
+
+
+
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./images/mente_logo.png>]
+(./ultimate_mente_daloskonyv.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+ [2
+
+])
+\tf@toc=\write3
+
+\openout3 = ultimate_mente_daloskonyv.toc
+ [3] [4
+
+] (./tajegysegek/gomor.tex
+1. fejezet.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--24
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--24
+
+ []
+
+[1
+
+]
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 25
+Module lyluatex Info: Compiling score tmp-ly/6fac66610d8058ef55e2aea753e33f5c wi
+th LilyPond executable 'lilypond'. on input line 25
+<tmp-ly/6fac66610d8058ef55e2aea753e33f5c-1.pdf, id=23, 394.47375pt x 49.18375pt>
+
+File: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-1.pdf Graphic file (type pdf)
+<use tmp-ly/6fac66610d8058ef55e2aea753e33f5c-1.pdf>
+Package luatex.def Info: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 394.47278pt x 49.18361pt.
+<tmp-ly/6fac66610d8058ef55e2aea753e33f5c-2.pdf, id=24, 394.47375pt x 40.15pt>
+File: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-2.pdf Graphic file (type pdf)
+<use tmp-ly/6fac66610d8058ef55e2aea753e33f5c-2.pdf>
+Package luatex.def Info: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 394.47278pt x 40.14989pt.
+<tmp-ly/6fac66610d8058ef55e2aea753e33f5c-3.pdf, id=25, 394.47375pt x 42.1575pt>
+File: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-3.pdf Graphic file (type pdf)
+<use tmp-ly/6fac66610d8058ef55e2aea753e33f5c-3.pdf>
+Package luatex.def Info: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-3.pdf  used on 
+input line 10.
+(luatex.def)             Requested size: 394.47278pt x 42.15738pt.
+<tmp-ly/6fac66610d8058ef55e2aea753e33f5c-4.pdf, id=26, 394.47375pt x 40.15pt>
+File: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-4.pdf Graphic file (type pdf)
+<use tmp-ly/6fac66610d8058ef55e2aea753e33f5c-4.pdf>
+Package luatex.def Info: tmp-ly/6fac66610d8058ef55e2aea753e33f5c-4.pdf  used on 
+input line 13.
+(luatex.def)             Requested size: 394.47278pt x 40.14989pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--38
+
+ []
+
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 39
+Module lyluatex Info: Compiling score tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a wi
+th LilyPond executable 'lilypond'. on input line 39
+<tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-1.pdf, id=27, 396.48125pt x 57.21375pt>
+
+File: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-1.pdf Graphic file (type pdf)
+<use tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-1.pdf>
+Package luatex.def Info: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 396.48027pt x 57.2136pt.
+<tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-2.pdf, id=28, 396.48125pt x 57.21375pt>
+
+File: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-2.pdf Graphic file (type pdf)
+<use tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-2.pdf>
+Package luatex.def Info: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 396.48027pt x 57.2136pt.
+[2<./tmp-ly/6fac66610d8058ef55e2aea753e33f5c-1.pdf><./tmp-ly/6fac66610d8058ef55e
+2aea753e33f5c-2.pdf><./tmp-ly/6fac66610d8058ef55e2aea753e33f5c-3.pdf><./tmp-ly/6
+fac66610d8058ef55e2aea753e33f5c-4.pdf><./tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a
+-1.pdf>]
+<tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-3.pdf, id=89, 396.48125pt x 60.225pt>
+File: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-3.pdf Graphic file (type pdf)
+<use tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-3.pdf>
+Package luatex.def Info: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-3.pdf  used on 
+input line 10.
+(luatex.def)             Requested size: 396.48027pt x 60.22484pt.
+<tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-4.pdf, id=90, 396.48125pt x 50.1875pt>
+File: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-4.pdf Graphic file (type pdf)
+<use tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-4.pdf>
+Package luatex.def Info: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-4.pdf  used on 
+input line 13.
+(luatex.def)             Requested size: 396.48027pt x 50.18736pt.
+<tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-5.pdf, id=91, 396.48125pt x 53.19875pt>
+
+File: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-5.pdf Graphic file (type pdf)
+<use tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-5.pdf>
+Package luatex.def Info: tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-5.pdf  used on 
+input line 16.
+(luatex.def)             Requested size: 396.48027pt x 53.19861pt.
+) (./tajegysegek/kalocsa.tex
+Underfull \hbox (badness 10000) in paragraph at lines 16--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--1
+
+ []
+
+[3<./tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-2.pdf><./tmp-ly/8ef83bd6036856ea2eb
+afaeb9d848c0a-3.pdf><./tmp-ly/8ef83bd6036856ea2ebafaeb9d848c0a-4.pdf><./tmp-ly/8
+ef83bd6036856ea2ebafaeb9d848c0a-5.pdf>]
+2. fejezet.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--15
+
+ []
+
+) (./tajegysegek/sarkoz_bogyiszlo.tex [4
+
+]
+3. fejezet.
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 3
+Module lyluatex Info: Compiling score tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8 wi
+th LilyPond executable 'lilypond'. on input line 3
+<tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-1.pdf, id=142, 399.4925pt x 55.20625pt>
+
+File: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-1.pdf Graphic file (type pdf)
+<use tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-1.pdf>
+Package luatex.def Info: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 399.49152pt x 55.2061pt.
+<tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-2.pdf, id=143, 399.4925pt x 48.18pt>
+File: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-2.pdf Graphic file (type pdf)
+<use tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-2.pdf>
+Package luatex.def Info: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 399.49152pt x 48.17986pt.
+<tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-3.pdf, id=144, 399.4925pt x 50.1875pt>
+File: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-3.pdf Graphic file (type pdf)
+<use tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-3.pdf>
+Package luatex.def Info: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-3.pdf  used on 
+input line 10.
+(luatex.def)             Requested size: 399.49152pt x 50.18736pt.
+<tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-4.pdf, id=145, 399.4925pt x 47.17625pt>
+
+File: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-4.pdf Graphic file (type pdf)
+<use tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-4.pdf>
+Package luatex.def Info: tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-4.pdf  used on 
+input line 13.
+(luatex.def)             Requested size: 399.49152pt x 47.17612pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--12
+
+ []
+
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 13
+Module lyluatex Info: Compiling score tmp-ly/9834d8c6bfb3160897dca76fdf95acc6 wi
+th LilyPond executable 'lilypond'. on input line 13
+<tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-1.pdf, id=146, 395.4775pt x 45.16875pt>
+
+File: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-1.pdf Graphic file (type pdf)
+<use tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-1.pdf>
+Package luatex.def Info: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 395.47653pt x 45.16862pt.
+
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
+ [5
+
+<./tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-1.pdf><./tmp-ly/2860e07d7fcb3d3c9c2c5
+76cbf8eb9e8-2.pdf><./tmp-ly/2860e07d7fcb3d3c9c2c576cbf8eb9e8-3.pdf><./tmp-ly/286
+0e07d7fcb3d3c9c2c576cbf8eb9e8-4.pdf>]
+<tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-2.pdf, id=197, 395.4775pt x 47.17625pt>
+
+File: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-2.pdf Graphic file (type pdf)
+<use tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-2.pdf>
+Package luatex.def Info: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 395.47653pt x 47.17612pt.
+<tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-3.pdf, id=198, 395.4775pt x 52.195pt>
+File: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-3.pdf Graphic file (type pdf)
+<use tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-3.pdf>
+Package luatex.def Info: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-3.pdf  used on 
+input line 10.
+(luatex.def)             Requested size: 395.47653pt x 52.19487pt.
+<tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-4.pdf, id=199, 395.4775pt x 52.195pt>
+File: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-4.pdf Graphic file (type pdf)
+<use tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-4.pdf>
+Package luatex.def Info: tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-4.pdf  used on 
+input line 13.
+(luatex.def)             Requested size: 395.47653pt x 52.19487pt.
+) (./tajegysegek/szatmar.tex
+Underfull \hbox (badness 10000) in paragraph at lines 13--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--1
+
+ []
+
+[6<./tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-1.pdf><./tmp-ly/9834d8c6bfb3160897d
+ca76fdf95acc6-2.pdf><./tmp-ly/9834d8c6bfb3160897dca76fdf95acc6-3.pdf><./tmp-ly/9
+834d8c6bfb3160897dca76fdf95acc6-4.pdf>]
+4. fejezet.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--7
+
+ []
+
+) (./tajegysegek/szek.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--1
+
+ []
+
+[7
+
+]
+5. fejezet.
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 3
+Module lyluatex Info: Compiling score tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b wi
+th LilyPond executable 'lilypond'. on input line 3
+<tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-1.pdf, id=247, 394.47375pt x 36.135pt>
+File: tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-1.pdf Graphic file (type pdf)
+<use tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-1.pdf>
+Package luatex.def Info: tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 394.47278pt x 36.13489pt.
+<tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-2.pdf, id=248, 394.47375pt x 37.13875pt
+>
+File: tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-2.pdf Graphic file (type pdf)
+<use tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-2.pdf>
+Package luatex.def Info: tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 394.47278pt x 37.13866pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--25
+
+ []
+
+[8
+
+<./tmp-ly/9f0564689f3a7ec0a5a6b17f4905cc8b-1.pdf><./tmp-ly/9f0564689f3a7ec0a5a6b
+17f4905cc8b-2.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 26--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--55
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 56--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--105
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--138
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 149--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--195
+
+ []
+
+[13]) (./tajegysegek/vag_garam_kozi.tex [14]
+6. fejezet.
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--8
+
+ []
+
+/usr/share/texlive/texmf-dist/tex/latex/base/ltluatex.lua:109: 
+Module lyluatex Error: File nwc_files/vgk_mar_minalunk_a_baratok_facipobe_jarnak
+.lytex doesn't exist. on input line 10
+
+stack traceback:
+	[C]: in function 'error'
+	/usr/share/texlive/texmf-dist/tex/latex/base/ltluatex.lua:109: in function </us
+r/share/texlive/texmf-dist/tex/latex/base/ltluatex.lua:108>
+	(...tail calls...)
+	./lyluatex.lua:1327: in function './lyluatex.lua.file'
+	[\directlua]:1: in main chunk.
+\ly@compilescore ... #1 ly.newpage_if_fullpage() }
+                                                  \ly@resetunits \ly@current...
+l.10 ...ar_minalunk_a_baratok_facipobe_jarnak.lytex}
+                                                  
+The lua interpreter ran into a problem, so the
+remainder of this lua chunk will be ignored.
+
+Module lyluatex Info: At least one font family set explicitly. Activate 'pass-fo
+nts' on input line 10
+./luaoptions-lib.lua:56: attempt to index a number value (local 'value')
+stack traceback:
+	./luaoptions-lib.lua:56: in function './luaoptions-lib.lua.convert_unit'
+	./lyluatex.lua:428: in method 'calc_properties'
+	./lyluatex.lua:1100: in method 'process'
+	[\directlua]:1: in main chunk.
+\ly@compilescore ...directlua {ly.score:process()}
+                                                  
+l.10 ...ar_minalunk_a_baratok_facipobe_jarnak.lytex}
+                                                  
+The lua interpreter ran into a problem, so the
+remainder of this lua chunk will be ignored.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--27
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--49
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--61
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 63--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--91
+
+ []
+
+[17]
+Module lyluatex Warning: Found something incompatible with `fragment`
+(lyluatex)               (or `relative`). Setting them to false.
+(lyluatex)               on input line 93
+Module lyluatex Info: Compiling score tmp-ly/fad53358c3f04646890bab45151ef8d6 wi
+th LilyPond executable 'lilypond'. on input line 93
+<tmp-ly/fad53358c3f04646890bab45151ef8d6-1.pdf, id=301, 394.47375pt x 44.165pt>
+File: tmp-ly/fad53358c3f04646890bab45151ef8d6-1.pdf Graphic file (type pdf)
+<use tmp-ly/fad53358c3f04646890bab45151ef8d6-1.pdf>
+Package luatex.def Info: tmp-ly/fad53358c3f04646890bab45151ef8d6-1.pdf  used on 
+input line 4.
+(luatex.def)             Requested size: 394.47278pt x 44.16487pt.
+<tmp-ly/fad53358c3f04646890bab45151ef8d6-2.pdf, id=302, 394.47375pt x 37.13875pt
+>
+File: tmp-ly/fad53358c3f04646890bab45151ef8d6-2.pdf Graphic file (type pdf)
+<use tmp-ly/fad53358c3f04646890bab45151ef8d6-2.pdf>
+Package luatex.def Info: tmp-ly/fad53358c3f04646890bab45151ef8d6-2.pdf  used on 
+input line 7.
+(luatex.def)             Requested size: 394.47278pt x 37.13866pt.
+<tmp-ly/fad53358c3f04646890bab45151ef8d6-3.pdf, id=303, 394.47375pt x 37.13875pt
+>
+File: tmp-ly/fad53358c3f04646890bab45151ef8d6-3.pdf Graphic file (type pdf)
+<use tmp-ly/fad53358c3f04646890bab45151ef8d6-3.pdf>
+Package luatex.def Info: tmp-ly/fad53358c3f04646890bab45151ef8d6-3.pdf  used on 
+input line 10.
+(luatex.def)             Requested size: 394.47278pt x 37.13866pt.
+<tmp-ly/fad53358c3f04646890bab45151ef8d6-4.pdf, id=304, 394.47375pt x 37.13875pt
+>
+File: tmp-ly/fad53358c3f04646890bab45151ef8d6-4.pdf Graphic file (type pdf)
+<use tmp-ly/fad53358c3f04646890bab45151ef8d6-4.pdf>
+Package luatex.def Info: tmp-ly/fad53358c3f04646890bab45151ef8d6-4.pdf  used on 
+input line 13.
+(luatex.def)             Requested size: 394.47278pt x 37.13866pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 13--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--41
+
+ []
+
+[18<./tmp-ly/fad53358c3f04646890bab45151ef8d6-1.pdf><./tmp-ly/fad53358c3f0464689
+0bab45151ef8d6-2.pdf><./tmp-ly/fad53358c3f04646890bab45151ef8d6-3.pdf><./tmp-ly/
+fad53358c3f04646890bab45151ef8d6-4.pdf>] [19]
+(./ultimate_mente_daloskonyv.aux))
+
+Here is how much of LuaTeX's memory you used:
+ 6417 strings out of 481365
+ 100000,953878 words of node,token memory allocated
+ 471 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 4 glue, 3 kern, 1 glyph, 9 attribute, 53 glue_spec,
+ 6 attribute_list, 2 write nodes
+   avail lists: 2:739,3:146,4:47,5:132,6:32,7:2018,8:3,9:204,10:4,11:182
+ 22990 multiletter control sequences out of 65536+600000
+ 45 fonts using 5192459 bytes
+ 51i,7n,49p,1647b,367s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman12-regular.otf></usr/share/tex
+mf/fonts/opentype/public/lm/lmroman12-italic.otf></usr/share/texmf/fonts/opentyp
+e/public/lm/lmroman12-bold.otf>
+Output written on ultimate_mente_daloskonyv.pdf (23 pages, 628208 bytes).
+
+PDF statistics: 379 PDF objects out of 1000 (max. 8388607)
+ 266 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+

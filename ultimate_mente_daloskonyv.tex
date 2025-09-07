@@ -1,0 +1,44 @@
+\documentclass[a4paper,12pt,twoside,openany]{book}
+%\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{titlesec} % a "Chapter N" eltávolítása a fejezetek előtt
+\usepackage{lyluatex}
+\usepackage[magyar]{babel}
+
+\begin{document}
+\frontmatter
+\author{Szerkesztette: Varga Péter}
+\title{Ultimate MENTE Daloskönyv}
+\date{Utoljára módosítva: \today}
+\titleformat{\chapter}[display]
+	{\normalfont\bfseries}{}{0pt}{\Huge}
+
+\begin{titlepage}
+	\centering
+	\includegraphics[width=0.3\textwidth]{images/mente_logo.png}\par\vspace{1cm}
+	{\huge\bfseries Ultimate MENTE daloskönyv\par}
+	\vspace{2cm}
+	{\Large\itshape Szerkesztette: Varga Péter\par}
+	\vfill
+	Közreműködött:\par
+	Petro Krisztina\\
+	\vfill
+	Utolsó módosítás dátuma:
+	{\large \today\par}
+\end{titlepage}
+
+\setcounter{tocdepth}{2}
+\tableofcontents
+
+\mainmatter
+
+\input{tajegysegek/gomor.tex}
+\input{tajegysegek/kalocsa.tex}
+\input{tajegysegek/sarkoz_bogyiszlo.tex}
+\input{tajegysegek/szatmar.tex}
+\input{tajegysegek/szek.tex}
+\input{tajegysegek/vag_garam_kozi.tex}
+
+\backmatter
+
+\end{document}

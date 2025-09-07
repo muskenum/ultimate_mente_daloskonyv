@@ -1,0 +1,65 @@
+% Generated from python nwc2ly converter v1.0 by Joshua Koo (zz85nus@gmail.com)
+\paper 
+{
+	#(set-paper-size "papera4")
+	#(set-global-staff-size 16)
+	topmargin = 0.5\in
+	leftmargin = 0.5\in
+	rightmargin = 0.5\in
+	bottommargin = 0.5\in
+	raggedlastbottom = ##t
+}
+
+\version "2.22.2"
+\header {
+	title = ""
+	composer = ""
+	copyright = \markup \teeny "Copyright © 2025 <Name>"
+	footer = "All Rights Reserved"
+	%{  %}
+}
+
+\score {
+	<<
+		
+	\new Staff {
+	#(set-accidental-style 'default) \relative c {
+
+	% Staff 1		(Staff)
+
+	\set Staff.instrument = #"Staff"
+	\set Score.skipBars = ##t
+
+	\clef "treble"
+		\key bes \major % or g \minor
+		g''8[ g g a bes a g g(] g4) | \break
+		
+		% Bar 2
+		c8[ d c bes] a[ c] f, f4. |
+		
+		% Bar 3
+		g8[ ees d c] c[ g' f f(] ees4) | \break
+		
+		% Bar 4
+		ees8[ d c bes] \times 2/3 { ees f4 } c2 c4 r \bar "|." \break
+		
+		% Bar 5
+		\clef "bass"
+		c, \bar "||" \break
+		
+		% Bar 6
+		\clef "treble"
+		d''8 \bar "||"
+		
+		% Bar 7
+		\bar "|."
+		}
+	
+		\addlyrics{ Sok i -- ri -- gyëm a fa -- lu -- ba', _ 
+Ket -- tő -- há -- rom ëgy ka -- pu -- ba',
+El a -- kar -- nak ve -- szej -- te -- ni, _ 
+Jó az Is -- ten, nem en -- ge -- di.}
+	}
+	
+	>>
+}

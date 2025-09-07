@@ -1,0 +1,69 @@
+% Generated from python nwc2ly converter v1.0 by Joshua Koo (zz85nus@gmail.com)
+\paper 
+{
+	#(set-paper-size "a4paper")
+	#(set-global-staff-size 16)
+	topmargin = 0.5\in
+	leftmargin = 0.5\in
+	rightmargin = 0.5\in
+	bottommargin = 0.5\in
+	raggedlastbottom = ##t
+}
+
+\version "2.22.2"
+\header {
+	title = ""
+	composer = ""
+	copyright = \markup \teeny "Copyright © 2025 <Name>"
+	footer = "All Rights Reserved"
+	%{  %}
+}
+
+\score {
+	<<
+		
+	\new Staff {
+	#(set-accidental-style 'default) \relative c {
+
+	% Staff 1		(Staff)
+
+	\set Staff.instrument = #"Staff"
+	\set Score.skipBars = ##t
+
+	\clef "treble"
+		\key f \major % or d \minor
+		a''8[ a a f] a[ a a f] |
+		
+		% Bar 2
+		d[ d f e] d4 d \bar "|" \break
+		
+		% Bar 3
+		a'8[ a a f] a[ a a f] |
+		
+		% Bar 4
+		d[ d f e] d4 d \bar ".|:"\break
+		
+		% Bar 5
+		c8[ c f f] a[ a f f] | 
+		
+		% Bar 6
+		c'[ c c bes] a4 a \bar "|"\break
+		
+		% Bar 7
+		d,8[ d f f] a[ a a f] |
+		
+		% Bar 8
+		d[ d f e] d4 d \bar ":|."
+		
+		% Bar 9
+		\bar "|."
+		}
+	
+		\addlyrics{ Már mi -- ná -- lunk a ba -- rá -- tok fa -- ci -- pő -- be' jár -- nak,
+A -- zok é -- lik vi -- lá -- gu -- kat, kik pár -- já -- val hál -- nak.
+Lám én sze -- gény ár -- va fe -- jëm csak e -- gye -- dül há -- lok,
+A -- kár -- mer -- re ta -- po -- ga -- tok, csak fa -- lat -- ta -- lá -- lok.}
+	}
+	
+	>>
+}

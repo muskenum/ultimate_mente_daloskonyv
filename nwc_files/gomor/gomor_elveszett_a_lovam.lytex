@@ -1,0 +1,65 @@
+% Generated from python nwc2ly converter v1.0 by Joshua Koo (zz85nus@gmail.com)
+\paper 
+{
+	#(set-paper-size "papera4")
+	#(set-global-staff-size 16)
+	topmargin = 0.5\in
+	leftmargin = 0.5\in
+	rightmargin = 0.5\in
+	bottommargin = 0.5\in
+	raggedlastbottom = ##t
+}
+
+\version "2.22.2"
+\header {
+	title = ""
+	composer = ""
+	copyright = \markup \teeny "Copyright © 2025 Varga Péter"
+	footer = "All Rights Reserved"
+	%{  %}
+}
+
+\score {
+	<<
+		
+	\new Staff {
+	#(set-accidental-style 'default) \relative c {
+
+	% Staff 1		(Staff)
+
+	\set Staff.instrument = #"Staff"
+	\set Score.skipBars = ##t
+
+	\clef "treble"
+		
+		\tempo 4=66 \time 4/4 f'4 a g c, |
+		
+		% Bar 2
+		d2 d4 r | \break
+		
+		% Bar 3
+		a' f' e8 d4. |
+		
+		% Bar 4
+		a2 a4 r \bar "|" \break
+		
+		% Bar 5
+		c4. b8 c4 d |
+		
+		% Bar 6
+		c8[ bes] a[ g] a4 f | \break
+		
+		% Bar 7
+		f8 a4. g8 c,4. |
+		
+		% Bar 8
+		d2 d4 r \bar "|."
+		}
+	
+		\addlyrics{ El -- ve -- szett a lo -- vam, céd -- rus -- fa er -- 
+dő -- be'. El -- ko -- pott a ke -- mény -- szá -- rú csiž -- mám
+a ló -- ke -- re -- sés -- be'.}
+	}
+	
+	>>
+}
